@@ -66,6 +66,6 @@ Ejecución local
 5. Abrir en el navegador la dirección local que muestra Astro.
 
 > Nota: El proyecto utiliza una instalación local de WordPress como backend. Es necesario configurar WordPress y el tema personalizado para que el contenido y el formulario funcionen correctamente.
- Autor
+
 
 Proyecto desarrollado por Ing.Fernando De La Rosa Palma, como parte de mi aprendizaje y práctica en desarrollo web.
